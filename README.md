@@ -1,7 +1,7 @@
 windows8-privacypolicy_charmbar
 ===============================
 
-Microsoft windows 8 privacypolicy charmbar sample
+Microsoft windows 8 privacy policy in charmbar sample
 -------------------------------------------------
 Crearing privacy policy in your windows 8 app charmbar is very silmple.
 
