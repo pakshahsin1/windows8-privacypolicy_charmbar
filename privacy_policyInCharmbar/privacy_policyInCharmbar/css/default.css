@@ -1,0 +1,82 @@
+﻿body {
+}
+#about {
+    display: block;
+    margin: 10px;
+    padding: 5px;
+}
+.developer {
+    
+}
+.devname {
+    color:#0094ff;
+    font-family:'Times New Roman';
+    line-height:2pt;
+    letter-spacing:2px;
+}
+.social li {
+    display:inline;
+    text-decoration:none;
+    
+}
+#main {
+    display:block;
+    margin-top: 5%;
+    text-align:center;
+
+}
+#disc {
+    display:block;
+    margin-top: 2%;
+    text-align:center;
+
+}
+#logo {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10%;
+    text-align:center;
+}
+#blog {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10%;
+    text-align:center;
+}
+#blog a{
+    text-decoration:none;
+
+}
+#blog a:hover{
+    color:#ff6a00;
+    font-size:x-large;
+    cursor:pointer;
+    
+
+}
+h1 {
+    color: #0094ff;
+    font-weight: bold
+}
+h2 {
+    color: #808080;
+    font-weight: bold
+}
+h3 {
+    color: #ff6a00;
+    font-size:large;
+    font-weight: bold
+}
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}
